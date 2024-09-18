@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/SakSZambare/Leetcode/tree/master/0179-largest-number) |
 | [2155-find-missing-observations](https://github.com/SakSZambare/Leetcode/tree/master/2155-find-missing-observations) |
 ## Math
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/SakSZambare/Leetcode/tree/master/0179-largest-number) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SakSZambare/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Bit Manipulation
 |  |
@@ -29,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SakSZambare/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/SakSZambare/Leetcode/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/SakSZambare/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
