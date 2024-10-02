@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/SakSZambare/Leetcode/tree/master/0179-largest-number) |
+| [1256-rank-transform-of-an-array](https://github.com/SakSZambare/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SakSZambare/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2155-find-missing-observations](https://github.com/SakSZambare/Leetcode/tree/master/2155-find-missing-observations) |
 ## Math
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1256-rank-transform-of-an-array](https://github.com/SakSZambare/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SakSZambare/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SakSZambare/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## String
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/SakSZambare/Leetcode/tree/master/0179-largest-number) |
+| [1256-rank-transform-of-an-array](https://github.com/SakSZambare/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
