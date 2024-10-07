@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2155-find-missing-observations](https://github.com/SakSZambare/Leetcode/tree/master/2155-find-missing-observations) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/SakSZambare/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SakSZambare/Leetcode/tree/master/0567-permutation-in-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SakSZambare/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1923-sentence-similarity-iii](https://github.com/SakSZambare/Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/SakSZambare/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/SakSZambare/Leetcode/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/SakSZambare/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
