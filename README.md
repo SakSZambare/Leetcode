@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/SakSZambare/Leetcode/tree/master/0179-largest-number) |
 | [0567-permutation-in-string](https://github.com/SakSZambare/Leetcode/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/SakSZambare/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SakSZambare/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/SakSZambare/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SakSZambare/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -196,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/SakSZambare/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/SakSZambare/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
